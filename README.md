@@ -17,10 +17,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=Welcome+To+My+World;Muslim;Egyptian;Software+Engineer;Front-End+Developer;BIS+Student;Gamer;Hacker;Unusual+Miraculous;BOO!" alt="Typing SVG" />
 </div>
 
-  <h3>Software Engineer | Front-End Developer</h3>
+  <h3>Mechatronics Engineer</h3>
 
   <p align="center">
-    <i>My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World, And Whatever I Do.. I Do With Perfection.</i>
+    <i>My Journey Focuses On Mechatronics Engineering, Specifically embedded systems and ROS2 Applications, Always Eager To Learn And Take On New Challenges In The Tech World, And Whatever I Do.. I Do With Perfection.</i>
   </p>
 </div>
 
@@ -109,7 +109,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,git,github,vscode,cursor,replit,obs,miro" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ROS2,py,git,github,vscode,MatLab" />
 
 </div>
 
@@ -179,7 +179,7 @@
     </tr>
   </tbody>
 </table>
-<!--------------------------------[ Profile State & Analytics ]----------------------------------->
+<!--------------------------------[ Profile State & Analytics ]-----------------------------------
 
 <h2 align="center">
   Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="30" /></sub>
@@ -228,7 +228,7 @@
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
 </div>
 
-<!--------------------------------[ GitHub Chart ]----------------------------------->
+<!--------------------------------[ GitHub Chart ]-----------------------------------
 
 <h2 align="center">
   GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="30" /></sub>
@@ -240,7 +240,7 @@
   </a>
 </div>
 
-<!--------------------------------[ Spotify Account ]----------------------------------->
+<!--------------------------------[ Spotify Account ]-----------------------------------
 
 <h2 align="center">
   My Spotify World 
@@ -283,7 +283,7 @@
 </a>
 </div>
 
-<!--------------------------------[ Dates & Qoutes With Moon ]----------------------------------->
+<!--------------------------------[ Dates & Qoutes With Moon ]-----------------------------------
 
 <h3 align="center">
   Quotes & Date NY-Moon
@@ -308,9 +308,9 @@
 </p>
 </div>
 
-<!--------------------------------[ Contact Me ]----------------------------------->
+<!--------------------------------[ Contact Me ]-----------------------------------
 
-<!--Connect With Me -->
+<!--Connect With Me --
 <h3 align="center">
   Connect With Me 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
