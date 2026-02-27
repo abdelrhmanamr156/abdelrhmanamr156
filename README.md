@@ -14,7 +14,7 @@
 </h1>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=;Muslim;;Mechatonics+Engineer;Embedded+Systems;Student;ROS2;Ubunto;MatLabl;SOlIDWORKS;BOO!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=;Muslim;;Mechatonics+Engineer;Embedded+Systems;Student;ROS2;Ubunto;MatLabl;SOlIDWORKS;QT;SIMULATIN;BOO!" alt="Typing SVG" />
 </div>
 
   <h3>Mechatronics Engineer</h3>
@@ -322,6 +322,7 @@
   <a href="https://www.linkedin.com/in/abdelrhman-amr-2018a7264/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
   </a>
+  <!--
   &nbsp;&nbsp;
   <!--
   <a href="https://github.com/hexbido" target="_blank">
