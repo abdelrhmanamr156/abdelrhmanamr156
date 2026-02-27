@@ -314,10 +314,10 @@
 <!--Connect With Me -->
 <h3 align="center">
   Connect With Me 
-  <!--
+  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
 </h3>
--->
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abdelrhman-amr-2018a7264/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
