@@ -110,7 +110,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ros,py,cpp,git,github,vscode,matlab,ai,linux,sw" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ros,py,cpp,git,github,vscode,matlab,ai,linux,eclipse,notion,qt" />
 
 </div>
 
