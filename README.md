@@ -14,7 +14,7 @@
 </h1>
 
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=Welcome+To+My+World;Muslim;Egyptian;Software+Engineer;Front-End+Developer;BIS+Student;Gamer;Hacker;Unusual+Miraculous;BOO!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=;Muslim;;Mechatonics+Engineer;Embedded+Systems;Student;ROS2;Ubunto;MatLabl;SOlIDWORKS;BOO!" alt="Typing SVG" />
 </div>
 
   <h3>Mechatronics Engineer</h3>
@@ -110,7 +110,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ros2,py,git,github,vscode,matlab" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ros,py,git,github,vscode,matlab,solidworks" />
 
 </div>
 
