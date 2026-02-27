@@ -1,16 +1,358 @@
-## Hi there 👋
+<!--------------------------------[ Profile Interface ]----------------------------------->
 
-<!--
-**abdelrhmanamr156/abdelrhmanamr156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=f2004a" width="100%">
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=f2004a&text=Think%20Outside%20The%20Box!&desc=Think%20More%20Freely.&fontColor=ffffff&fontSize=35&descSize=20&fontAlignY=45&descAlignY=58&animation=twinkling&rotate=16.5&fontstyle=italic"
+    alt="Think Outside The Box Header" 
+    width="100%" 
+  />
+  <h1 align="center">
+  Yo, I'm Abd El-Rhman A.El-Hassan 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-Here are some ideas to get you started:
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=Welcome+To+My+World;Muslim;Egyptian;Software+Engineer;Front-End+Developer;BIS+Student;Gamer;Hacker;Unusual+Miraculous;BOO!" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Software Engineer | Front-End Developer</h3>
+
+  <p align="center">
+    <i>My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World, And Whatever I Do.. I Do With Perfection.</i>
+  </p>
+</div>
+
+<!--------------------------------[ GitHub Profile Stats ]----------------------------------->
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat" alt="Profile views" />
+  &nbsp;
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/hexbido?label=Followers&color=f2004a&logo=github&style=flat" alt="GitHub Followers" />
+  &nbsp;
+  
+  <!-- Total Stars -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+
+  <!-- Total Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/hexbido/hexbido?label=Repo%20Size&color=f2004a&logo=github" alt="Repo Size" />
+  &nbsp;
+  
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Forks&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+  
+
+  <!-- Pulls -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Pulls&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+  
+  <!-- 2025 Commits -->
+  <img src="https://img.shields.io/github/commit-activity/m/hexbido/hexbido?label=Commit%20Activity&color=f2004a&logo=github" alt="Commit Activity" />
+  &nbsp;
+  
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <br>
+</p>
+
+<!--------------------------------[ Browser & GenAI & OS/IDEs ]----------------------------------->
+
+<h2 align="center">
+  My Work Enviroment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="30" /></sub>
+</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Zen-FF1B2D?style=for-the-badge&logo=zenbrowser&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=arc&logoColor=000" />
+
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Edge-2771D8?style=for-the-badge&logo=edge-white&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff" />
+
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white" />
+
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=fff" />
+
+</div>
+
+<!--------------------------------[ Skills & Tools ]----------------------------------->
+
+<h2 align="center">
+  Skills & Tools <sub><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="40" /></sub>
+</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,py,git,github,vscode,cursor,replit,obs,miro" />
+
+</div>
+
+<!--------------------------------[ Certifications & Education ]----------------------------------->
+
+<h2 align="center">
+  Professional Training & Certifications 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
+</h2>
+
+<div align="center">
+<table style="margin: 0 auto;">
+  <thead>
+    <tr>
+      <th>Program</th>
+      <th>Organization</th>
+      <th>Duration</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="middle">
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br />
+        <b>ReactJS & TypeScript Web Development</b>
+      </td>
+      <td align="center">Almdarsa</td>
+      <td align="center">Oct 2025 - Present</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-f2004a?style=flat-square" alt="Status" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br />
+
+<h2 align="center">
+  Academic Background 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation" width="30" height="30" />
+</h2>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">Degree</th>
+      <th width="40%">Institution</th>
+      <th width="12.5%">Duration</th>
+      <th width="12.5%">Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="middle">
+      <td align="center"><b>Bachelor's Of Business Information System</b></td>
+      <td align="center">Al-Shorouk Academy - Faculty of Computers & Information Technology</td>
+      <td align="center">Sep 2024 - Aug 2028</td>
+      <td align="center"><b>Very Good (78.27%)</b></td>
+    </tr>
+    <tr valign="middle">
+      <td align="center"><b>High School Diploma</b></td>
+      <td align="center">Al-Shaheed Mahmoud Raafat Military Secondary Industrial School</td>
+      <td align="center">2021 - 2024</td>
+      <td align="center"><b>Graduated - Very Good (76.26%)</b></td>
+    </tr>
+  </tbody>
+</table>
+<!--------------------------------[ Profile State & Analytics ]----------------------------------->
+
+<h2 align="center">
+  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="30" /></sub>
+
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hexbido">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=hexbido&data=repositories,stars,commits&theme=mountain" alt="GitHub WidgetBox" width="70%" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=true" width="100%" alt="Activity Graph" />
+  </a>
+  <br />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hexbido&layout=compact&hide_border=true&theme=highcontrast&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexbido&theme=highcontrast&exclude_repo=github-readme-stats&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexbido&theme=highcontrast&exclude_repo=github-readme-stats&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Most Commit Language" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexbido&theme=highcontrast" height="165" alt="Profile Details" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/hexbido">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=hexbido" height="400" alt="Stats" />
+  </a>
+  <br />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100" alt="Open Sourcerer" title="Open Sourcerer 🔮" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="100" alt="Starstruck" title="Starstruck" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
+</div>
+
+<!--------------------------------[ GitHub Chart ]----------------------------------->
+
+<h2 align="center">
+  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="30" /></sub>
+</h2>
+
+<div align="center">
+  <a href="https://github.com/hexbido/hexbido/generate">
+    <img src="https://raw.githubusercontent.com/hexbido/hexbido/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </a>
+</div>
+
+<!--------------------------------[ Spotify Account ]----------------------------------->
+
+<h2 align="center">
+  My Spotify World 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="30" /></sub>
+</h2>
+<p align="center">
+    <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
+</p>
+
+<h5 align="center">Enjoy The Tunes!</h5>
+
+<p align="center">
+<a href="https://open.spotify.com/playlist/3RTxNYSvRR30TOZp0QFSIS?si=05616270273b4c64" target="_blank">
+<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+</a>
+</p>
+
+<br />
+
+<div align="center">
+<table>
+<tr>
+<td>
+<a href="https://open.spotify.com/user/31o5fzd2my7dazdltxfu3kuq36zy">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5fzd2my7dazdltxfu3kuq36zy&width=450" alt="Spotify Recently Played">
+</a>
+</td>
+<td>
+<a href="https://github.com/hexbido">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o5fzd2my7dazdltxfu3kuq36zy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Now Playing">
+</a>
+</td>
+</tr>
+</table>
+
+<br />
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy" alt="Data Card for Spotify">
+</a>
+</div>
+
+<!--------------------------------[ Dates & Qoutes With Moon ]----------------------------------->
+
+<h3 align="center">
+  Quotes & Date NY-Moon
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/First%20Quarter%20Moon.webp" alt="First Quarter Moon" width="30" height="30" /></sub>
+</h3>
+<div align="center">
+<table>
+<tr>
+<td valign="middle" align="center" width="50%">
+<img src="https://i.countdownmail.com/4q6jxv.gif" border="0" alt="countdownmail.com" width="100%"/>
+</td>
+<td valign="middle" align="center" width="50%">
+<img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=8" alt="Moon Phase" width="130">
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<a href="https://github.com/marketplace/actions/github-readme-quotes">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quoteCategory=general&borderColor=red" alt="Random Quote">
+</a>
+</p>
+</div>
+
+<!--------------------------------[ Contact Me ]----------------------------------->
+
+<!--Connect With Me -->
+<h3 align="center">
+  Connect With Me 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
+</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/hexbido" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://facebook.com/ixbido" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/q.rx4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="instagram logo" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://t.me/hexbido" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="50" width="50" alt="telegram logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="mailto:abdelrahman.mohammedxv@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
+  </a>
+</p>
+<br>
+
+<h3 align="center">
+  From <a href="https://github.com/hexbido">B I D O</a> | Let's Aspire & Build Together! 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
+</h3>
+
+
+</div>
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=f2004a" width="100%">
