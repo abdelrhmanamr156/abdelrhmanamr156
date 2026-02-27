@@ -24,35 +24,35 @@
   </p>
 </div>
 
-<!--------------------------------[ GitHub Profile Stats ]----------------------------------->
+<!--------------------------------[ GitHub Profile Stats ]-----------------------------------
 
 <p align="center">
-  <!-- Profile Views -->
+  <!-- Profile Views --
   <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat" alt="Profile views" />
   &nbsp;
   
-  <!-- Followers -->
+  <!-- Followers --
   <img src="https://img.shields.io/github/followers/hexbido?label=Followers&color=f2004a&logo=github&style=flat" alt="GitHub Followers" />
   &nbsp;
   
-  <!-- Total Stars -->
+  <!-- Total Stars --
   <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
 
-  <!-- Total Repo Size -->
+  <!-- Total Repo Size --
   <img src="https://img.shields.io/github/repo-size/hexbido/hexbido?label=Repo%20Size&color=f2004a&logo=github" alt="Repo Size" />
   &nbsp;
   
-  <!-- Forks -->
+  <!-- Forks --
   <img src="https://img.shields.io/github/stars/hexbido?label=Forks&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
   
 
-  <!-- Pulls -->
+  <!-- Pulls --
   <img src="https://img.shields.io/github/stars/hexbido?label=Pulls&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
   
-  <!-- 2025 Commits -->
+  <!-- 2025 Commits --
   <img src="https://img.shields.io/github/commit-activity/m/hexbido/hexbido?label=Commit%20Activity&color=f2004a&logo=github" alt="Commit Activity" />
   &nbsp;
   
