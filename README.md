@@ -311,9 +311,10 @@
 
 <!--------------------------------[ Contact Me ]-----------------------------------
 
-<!--Connect With Me --
+<!--Connect With Me -->
 <h3 align="center">
   Connect With Me 
+  <!--
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
 </h3>
 -->
