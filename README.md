@@ -114,7 +114,7 @@
 </div>
 
 <!--------------------------------[ Certifications & Education ]----------------------------------->
-
+<!--
 <h2 align="center">
   Professional Training & Certifications 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
