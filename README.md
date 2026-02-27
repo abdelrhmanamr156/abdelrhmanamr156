@@ -316,22 +316,24 @@
   Connect With Me 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
 </h3>
+-->
 <p align="center">
-  <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelrhman-amr-2018a7264/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
   </a>
   &nbsp;&nbsp;
-  
+  <!--
   <a href="https://github.com/hexbido" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
   </a>
   &nbsp;&nbsp;
-  
+<!
   <a href="https://facebook.com/ixbido" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
   </a>
   &nbsp;&nbsp;
 
+<!--
   <a href="https://instagram.com/q.rx4" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="instagram logo" />
   </a>
@@ -357,3 +359,4 @@
 </div>
 </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=f2004a" width="100%">
+-->
